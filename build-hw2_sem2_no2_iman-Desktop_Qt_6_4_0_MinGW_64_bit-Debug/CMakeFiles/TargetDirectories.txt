@@ -1,0 +1,7 @@
+C:/Users/Olafe/Documents/hw2_sem2_no2/build-hw2_sem2_no2_iman-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/hw2_sem2_no2_iman.dir
+C:/Users/Olafe/Documents/hw2_sem2_no2/build-hw2_sem2_no2_iman-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Olafe/Documents/hw2_sem2_no2/build-hw2_sem2_no2_iman-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Olafe/Documents/hw2_sem2_no2/build-hw2_sem2_no2_iman-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Olafe/Documents/hw2_sem2_no2/build-hw2_sem2_no2_iman-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Olafe/Documents/hw2_sem2_no2/build-hw2_sem2_no2_iman-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Olafe/Documents/hw2_sem2_no2/build-hw2_sem2_no2_iman-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir

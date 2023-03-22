@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-138595efe697a3a51203.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hw2_sem2_no2_iman",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hw2_sem2_no2_iman::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw2_sem2_no2_iman-Debug-a1d0e572137b4d3f0f20.json",
+					"name" : "hw2_sem2_no2_iman",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Olafe/Documents/hw2_sem2_no2/build-hw2_sem2_no2_iman-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Olafe/Documents/hw2_sem2_no2/hw2_sem2_no2_iman"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
